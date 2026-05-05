@@ -1,6 +1,7 @@
 # Multi-Agent AI Business Report Generator
 
-# Project live running link: https://multi-agent-ai-business-report-generator-sh6zrfxkmen9ncpbiwh8p.streamlit.app/
+🌐 **Live Demo:** [Click here to open app](https://multi-agent-ai-business-report-generator-sh6zrfxkmen9ncpbiwh8p.streamlit.app/)
+
 
 ## Overview
 
