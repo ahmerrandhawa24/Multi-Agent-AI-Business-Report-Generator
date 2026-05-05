@@ -1,0 +1,13 @@
+crewai
+crewai-tools
+litellm
+groq
+streamlit
+pandas
+pymupdf
+duckduckgo-search
+sentence-transformers
+faiss-cpu
+numpy
+python-dotenv
+duckduckgo_search
